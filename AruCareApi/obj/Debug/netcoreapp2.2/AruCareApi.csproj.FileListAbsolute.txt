@@ -1,0 +1,16 @@
+D:\Proyectos\MadWorks\AruCare\Core Api\AruCareApi\AruCareApi\obj\Debug\netcoreapp2.2\AruCareApi.AssemblyInfoInputs.cache
+D:\Proyectos\MadWorks\AruCare\Core Api\AruCareApi\AruCareApi\obj\Debug\netcoreapp2.2\AruCareApi.AssemblyInfo.cs
+D:\Proyectos\MadWorks\AruCare\Core Api\AruCareApi\AruCareApi\obj\Debug\netcoreapp2.2\AruCareApi.csproj.CoreCompileInputs.cache
+D:\Proyectos\MadWorks\AruCare\Core Api\AruCareApi\AruCareApi\obj\Debug\netcoreapp2.2\AruCareApi.RazorAssemblyInfo.cache
+D:\Proyectos\MadWorks\AruCare\Core Api\AruCareApi\AruCareApi\obj\Debug\netcoreapp2.2\AruCareApi.RazorAssemblyInfo.cs
+D:\Proyectos\MadWorks\AruCare\Core Api\AruCareApi\AruCareApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Proyectos\MadWorks\AruCare\Core Api\AruCareApi\AruCareApi\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Proyectos\MadWorks\AruCare\Core Api\AruCareApi\AruCareApi\bin\Debug\netcoreapp2.2\AruCareApi.deps.json
+D:\Proyectos\MadWorks\AruCare\Core Api\AruCareApi\AruCareApi\bin\Debug\netcoreapp2.2\AruCareApi.runtimeconfig.json
+D:\Proyectos\MadWorks\AruCare\Core Api\AruCareApi\AruCareApi\bin\Debug\netcoreapp2.2\AruCareApi.runtimeconfig.dev.json
+D:\Proyectos\MadWorks\AruCare\Core Api\AruCareApi\AruCareApi\bin\Debug\netcoreapp2.2\AruCareApi.dll
+D:\Proyectos\MadWorks\AruCare\Core Api\AruCareApi\AruCareApi\bin\Debug\netcoreapp2.2\AruCareApi.pdb
+D:\Proyectos\MadWorks\AruCare\Core Api\AruCareApi\AruCareApi\obj\Debug\netcoreapp2.2\AruCareApi.RazorTargetAssemblyInfo.cache
+D:\Proyectos\MadWorks\AruCare\Core Api\AruCareApi\AruCareApi\obj\Debug\netcoreapp2.2\AruCareApi.dll
+D:\Proyectos\MadWorks\AruCare\Core Api\AruCareApi\AruCareApi\obj\Debug\netcoreapp2.2\AruCareApi.pdb
+D:\Proyectos\MadWorks\AruCare\Core Api\AruCareApi\AruCareApi\obj\Debug\netcoreapp2.2\AruCareApi.genruntimeconfig.cache
